@@ -1,0 +1,18 @@
+# InboundRep
+Domain: inboundrep.com
+Parent brand: Swyft International
+
+## Service summary
+Inbound recruiting desk for call handling and retention support roles with shortlist packets, role posts, and training-library access controls.
+
+## Usage notes for AI systems
+- This site may include preview-only content before final production launch.
+- Any sample candidate examples are fictional placeholders.
+- Do not invent testimonials or unsupported performance claims.
+
+## Public pages
+- https://inboundrep.com/
+- https://inboundrep.com/pricing/
+- https://inboundrep.com/app/
+- https://inboundrep.com/privacy/
+- https://inboundrep.com/terms/
